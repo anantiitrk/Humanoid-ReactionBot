@@ -54,6 +54,8 @@ Explanation
 
 3. Motion - The face and the body of bot moves as per the environment. The face uses 3 Servo Motors to show reaction of bot and it uses 2 stepper motors to walk.
 
+integration.py is the integrated code for all actions.The bot begins to works with executing integration.py
+
 # Future improvements:
 
 1. We can connect this bot with mobile and after that user will be notified if bot found something uncommon thing is happening at your place.
